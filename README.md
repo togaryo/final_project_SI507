@@ -17,8 +17,6 @@ In addition, I will use US news to gain information about famous places in US
 
 
 
-Data sources used, including instructions for a user to access the data sources
-
 ● Any other information needed to run the program (e.g., pointer to getting started info for
 plotly)
 
