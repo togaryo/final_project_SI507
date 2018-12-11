@@ -1,0 +1,50 @@
+
+At first, you have two choice of 1 or 2 for the interactive_prompt.
+
+
+1 showing all of the places by ploting by typing "all plot"
+
+
+2-1 choose one of them below
+
+Yellowstone_National_Park_WY
+Maui_HI
+Grand_Canyon_AZ
+Yosemite_CA
+New_York_NY
+San_Francisco_CA
+Washington_DC
+Honolulu_Oahu_HI
+Boston_MA
+Lake_Tahoe_CA
+San_Diego_CA
+Chicago_IL
+New_Orleans_LA
+Glacier_National_Park_MT
+Seattle_WA
+Miami_FL
+Charleston_SC
+Sanibel_Island_FL
+Denver_CO
+Big_Sur_CA
+Savannah_GA
+Monterey_CA
+Sedona_AZ
+Zion_National_Park_UT
+
+
+2-2 choose information or plot
+	Description: Based on what you choose out of famous places displayed, it will show some information about hotels, restaurants or things_to_do by sentences or mapping
+
+
+
+2-3  choose hotels, restaurants or things_to_do
+	Description: Based on what you choose out of famous places displayed and how to show, what kind of information do you want to know like hotels, restaurants or things_to_do
+
+
+The example of your input is like
+
+"all plot"
+"Lake_Tahoe_CA information things_to_do "
+"Miami_FL plot restaurants"
+"Zion_National_Park_UT information hotels"
